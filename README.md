@@ -1,6 +1,6 @@
 # JS Interview
 
-This is the basis for a technical interview project. This interview is suited for a customer success engineer.
+This interview tries to assess the analytical and data manipulation skill of a JS developer.
 
 # Goals
 
