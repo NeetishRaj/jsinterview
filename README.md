@@ -1,4 +1,4 @@
-# Interview B
+# JS Interview
 
 This is the basis for a technical interview project. This interview is suited for a customer success engineer.
 
@@ -24,12 +24,12 @@ This is the basis for a technical interview project. This interview is suited fo
    - Open your terminal and run
 
    ```
-   git clone https://github.com/teamsense/tech-interviews.git
+   git clone https://github.com/NeetishRaj/jsinterview.git
    ```
 
 2. Complete the setup
    ```
-   cd interview-b/javascript
+   cd jsinterview
    npm install
    ```
 
