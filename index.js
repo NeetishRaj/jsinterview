@@ -3,19 +3,23 @@
 
   SAMPLE RETURN DATA: 
   {
-    13903: {
-      "Yes": 2,
-      "No": 4
+    28726: {
+      "Green": 1,
+      "Blue": 3,
+      "Yellow": 1,
+      "Red": 1
     },
-    39023: {
+    92838: {
       "Pizza": 1,
-      "Burrito": 4
+      "Salad": 2
     }
   }
 */
 const data = require('./data.json');
 
 function count_survey_responses(data) {
+  const  result = {};
+  
  // Right your logic to build the result here
 
   return result;
